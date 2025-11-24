@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+matplotlib
+numpy
+opencv-python
+yolov5
+ipykernel
+ipywidgets
+pyautogui
+urllib3
