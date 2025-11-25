@@ -1,0 +1,4 @@
+game_over
+left_obs
+timberman
+right_obs

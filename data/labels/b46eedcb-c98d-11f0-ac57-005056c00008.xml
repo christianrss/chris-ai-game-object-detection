@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>b46eedcb-c98d-11f0-ac57-005056c00008.jpg</filename>
+	<path>C:\Users\souza\projects\chris-ai-game-object-detection\data\images\b46eedcb-c98d-11f0-ac57-005056c00008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>game_over</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>34</ymin>
+			<xmax>416</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

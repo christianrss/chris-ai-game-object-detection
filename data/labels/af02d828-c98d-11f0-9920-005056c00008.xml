@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>af02d828-c98d-11f0-9920-005056c00008.jpg</filename>
+	<path>C:\Users\souza\projects\chris-ai-game-object-detection\data\images\af02d828-c98d-11f0-9920-005056c00008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left_obs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>192</ymin>
+			<xmax>293</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>
