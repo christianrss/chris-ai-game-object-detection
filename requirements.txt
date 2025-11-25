@@ -9,3 +9,6 @@ ipykernel
 ipywidgets
 pyautogui
 urllib3
+pyqt5
+lxml
+labelimg

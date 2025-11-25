@@ -12,3 +12,7 @@ cd vcpkg && bootstrap-vcpkg.bat && vcpkg --classic install libavif
 pip install -r requirements.txt
 
 git clone https://github.com/ultralytics/yolov5 && cd yolov5 && pip install -r requirements.txt
+
+git clone https://github.com/tzutalin/labelImg
+
+cd labelImg && pyrcc5 -o libs/resources.py resources.qrc
